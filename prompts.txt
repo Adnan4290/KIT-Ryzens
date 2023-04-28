@@ -1,0 +1,11 @@
+Certainly! I'd be happy to help you with the development of a web-based endless runner game similar to Temple Run. To get started, I have a few questions:
+
+What programming languages and frameworks are you currently using for web development? This will help me understand the technology stack we'll be working with.
+Do you have any specific design preferences or themes in mind for the game? It's important to establish the visual style and overall atmosphere of the game.
+Are there any particular gameplay mechanics or features you would like to include in the endless runner game? This could be power-ups, obstacles, character abilities, or any other unique aspects.
+Do you have any existing assets, such as graphics or sound effects, that we can use in the game? If not, do you have a plan for acquiring or creating them?
+Are there any specific platforms or devices you're targeting for the game's release? This will help us optimize the game accordingly.
+1. I don't have much idea about that but I think HTML CSS AND JS on the client side while python flask should be good on the backend. You can share if you have a better plan.
+2 & 3 . We have only 9 days for this and we are not experts in this field, so. I think we should make a basic game first and then add features like powerups, character powers etc. I think the map should look like the danger dash game, if you know.
+4. No, we don't have any assets. We will create them and we are not experts in that so you also need to help us with that too.
+5. We are targeting the web browser. So, it should be playable on any device with a web browser. Primary target is mobile devices and after that we will think of desktops.
